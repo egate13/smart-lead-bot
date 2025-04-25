@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+praw
+snscrape
+pandas
+scikit-learn
+streamlit
+flask
+transformers
+
